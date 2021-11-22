@@ -23,7 +23,7 @@
 <p align="center">
     <a href="mailto:owlrik@yandex.ru" title="owlrik@yandex.ru">
       <img width="36" height="36" src="./img/mail.svg">
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;
     <a href="https://t.me/owlrik" title="owlrik">
       <img width="36" height="36" src="./img/telegram.svg">
     </a>
