@@ -1,0 +1,9 @@
+_design/
+.DS_Store
+.idea
+.vscode
+*.ai
+*.log
+*.psd
+*.sublime*
+Thumbs.db
