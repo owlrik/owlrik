@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./header.svg" width="100%" alt="Привет! Меня зовут Вадим. Я веб-разработчик из Иркутска." />
+    <img src="./img/header.svg" width="100%" alt="Привет! Меня зовут Вадим. Я веб-разработчик из Иркутска." />
 </p>
 
 Добро пожаловать на мой GitHub. Здесь собраны ссылки на проекты для портфолио.
@@ -18,9 +18,13 @@
 | [Ask it!](https://github.com/owlrik/markup-askit/) | Лендинг платформы для организации мероприятий | HTML, Sass/SCSS, JavaScript (ES6) | [Лендинг «Ask it!»](https://owlrik.github.io/markup-askit/) |
 | [Пинк](https://github.com/owlrik/markup-pink/) | Сайт приложения для раскрашивания серых будней в розовый цвет | HTML, Sass/SCSS, JavaScript (ES6) | [Сайт «Пинк»](https://owlrik.github.io/markup-pink/) |
 
-### 💌 Буду рад рассмотреть ваши предложения к сотрудничеству
+### 📧 Буду рад рассмотреть ваши предложения к сотрудничеству
 
 <p align="center">
-    <a href="mailto:owlrik@yandex.ru"><img width="36" height="36" src="./mail.svg"></a>&nbsp;&nbsp;
-    <a href="https://t.me/owlrik"><img width="36" height="36" src="./telegram.svg"></a>
+    <a href="mailto:owlrik@yandex.ru" title="owlrik@yandex.ru">
+      <img width="36" height="36" src="./img/mail.svg">
+    </a>&nbsp;&nbsp;
+    <a href="https://t.me/owlrik" title="owlrik">
+      <img width="36" height="36" src="./img/telegram.svg">
+    </a>
 </p>
